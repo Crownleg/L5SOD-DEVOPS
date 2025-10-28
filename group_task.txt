@@ -1,0 +1,1 @@
+We learned how to use Git commands such as init, add, commit, push, pull, branch, and merge.
